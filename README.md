@@ -1,4 +1,4 @@
-# image-analysis
+## image-analysis
 # HW1 implementation:
 Chamfer distance calulation
 Bilanear interpolation 
