@@ -1,7 +1,7 @@
 # image-analysis
-## HW1 implementation:
-Chamfer distance calulation
-Bilanear interpolation 
+## HW1 
+Chamfer distance: implementation on various basic forms
+Bilanear interpolation  
 
 ## HW2
 Linear filtering
@@ -10,4 +10,4 @@ corner detection
 
 ## HW3
 RANSAC: find a ligne in a image 
-Texure synthesis
+Texure synthesis : replace emtpy slot in an image by 
